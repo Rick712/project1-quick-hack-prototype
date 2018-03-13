@@ -1,5 +1,7 @@
-# project_1 Oba
+# project 1 Oba
 The repository of the first project of the minor
+
+LINK: rick712.github.io/project1-quick-hack-prototype/index.html
 
 The goal of the project was to create a web app with a SPARQL database. Allthough the main focus of the project was ADAMNET, I chose to work with WikiData, simply because there is a lot more data, and I wanted to do something with sportspersons from Amsterdam. ADAMNET lacked data about sportspersons.
 
