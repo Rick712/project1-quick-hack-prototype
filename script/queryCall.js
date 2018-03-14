@@ -29,6 +29,7 @@ const query = {
                     pdiv = document.createElement('div'),
                     spinner = document.querySelector('.spinner')
                 a.innerHTML = (result.sportclassLabel.value)
+                a.href = "#"
                 p.classList.add('sport')
                 p.appendChild(a) 
                 pdiv.appendChild(p)
